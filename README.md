@@ -1,7 +1,10 @@
+```
+python3 dldemos/ddpm/main_02_sampling.py
+```
 <<<<<<< HEAD
 # VAE-GAN-DDIM
 =======
-python3 dldemos/ddpm/main_02_sampling.py
+
 
 # Installation
 
