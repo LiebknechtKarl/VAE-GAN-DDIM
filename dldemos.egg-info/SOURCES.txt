@@ -1,0 +1,6 @@
+README.md
+setup.py
+dldemos.egg-info/PKG-INFO
+dldemos.egg-info/SOURCES.txt
+dldemos.egg-info/dependency_links.txt
+dldemos.egg-info/top_level.txt
