@@ -1,3 +1,12 @@
+运行GAN
+```
+python3 implementations/gan/gan_01.py
+```
+```
+python3 implementations/gan/gan.py
+```
+
+
 <<<<<<< HEAD
 # VAE-GAN-DDIM
 =======
