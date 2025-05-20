@@ -1,3 +1,7 @@
+```
+python3 contents/8_Actor_Critic_Advantage/AC_CartPole.py    # AC
+```
+
 <<<<<<< HEAD
 # VAE-GAN-DDIM
 =======
