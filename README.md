@@ -2,11 +2,11 @@
 python3 contents/8_Actor_Critic_Advantage/AC_CartPole.py    # AC
 ```
 
-<<<<<<< HEAD
 # VAE-GAN-DDIM
-=======
-python3 contents/8_Actor_Critic_Advantage/AC_CartPole.py    # AC
 
+```
+python3 contents/8_Actor_Critic_Advantage/AC_CartPole.py    # AC
+```
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=pieI7rOXELI&list=PLXO45tsB95cIplu-fLMpUEEZTwrDNh6Ba" target="_blank">
