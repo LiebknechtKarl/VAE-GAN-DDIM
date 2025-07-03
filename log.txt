@@ -1,0 +1,126 @@
+📌 训练 RNN
+Train Accuracy: 0.4964
+Train Accuracy: 0.5321
+Train Accuracy: 0.5529
+Train Accuracy: 0.5709
+Train Accuracy: 0.5496
+Train Accuracy: 0.5414
+Train Accuracy: 0.5501
+Train Accuracy: 0.5513
+Train Accuracy: 0.5444
+Train Accuracy: 0.5440
+Test Accuracy: 0.5072
+
+📌 训练 LSTM
+Train Accuracy: 0.5084
+Train Accuracy: 0.5506
+Train Accuracy: 0.6135
+Train Accuracy: 0.7570
+Train Accuracy: 0.8579
+Train Accuracy: 0.9096
+Train Accuracy: 0.9472
+Train Accuracy: 0.9694
+Train Accuracy: 0.9839
+Train Accuracy: 0.9890
+Test Accuracy: 0.8265
+
+📌 训练 mLSTM
+Train Accuracy: 0.5094
+Train Accuracy: 0.5649
+Train Accuracy: 0.6554
+Train Accuracy: 0.8039
+Train Accuracy: 0.8772
+Train Accuracy: 0.9168
+Train Accuracy: 0.9445
+Train Accuracy: 0.9679
+Train Accuracy: 0.9801
+Train Accuracy: 0.9825
+Test Accuracy: 0.8071
+
+
+dropout=0.2 **********************************************************
+dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn(
+📌 训练 RNN
+Train Accuracy: 0.5032
+Train Accuracy: 0.5238
+Train Accuracy: 0.5264
+Train Accuracy: 0.5526
+Train Accuracy: 0.5848
+Train Accuracy: 0.6108
+Train Accuracy: 0.6380
+Train Accuracy: 0.6598
+Train Accuracy: 0.6780
+Train Accuracy: 0.6966
+Test Accuracy: 0.5071
+/home/fu/anaconda3/envs/emotivoice_312/lib/python3.12/site-packages/torch/nn/modules/rnn.py:123: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn(
+
+📌 训练 LSTM
+Train Accuracy: 0.5195
+Train Accuracy: 0.5540
+Train Accuracy: 0.6300
+Train Accuracy: 0.6554
+Train Accuracy: 0.8592
+Train Accuracy: 0.9259
+Train Accuracy: 0.9596
+Train Accuracy: 0.9801
+Train Accuracy: 0.9896
+Train Accuracy: 0.9940
+Test Accuracy: 0.8316
+
+📌 训练 mLSTM
+Train Accuracy: 0.5066
+Train Accuracy: 0.5386
+Train Accuracy: 0.6561
+Train Accuracy: 0.8412
+Train Accuracy: 0.9168
+Train Accuracy: 0.9561
+Train Accuracy: 0.9800
+Train Accuracy: 0.9888
+Train Accuracy: 0.9936
+Train Accuracy: 0.9951
+Test Accuracy: 0.8166
+
+
+        drop_rate = 0.2         **********************************************************
+        number_layers = 2       **********************************************************
+
+📌 训练 RNN
+Train Accuracy: 0.5086
+Train Accuracy: 0.5256
+Train Accuracy: 0.5396
+Train Accuracy: 0.5447
+Train Accuracy: 0.5634
+Train Accuracy: 0.5877
+Train Accuracy: 0.5795
+Train Accuracy: 0.6145
+Train Accuracy: 0.6326
+Train Accuracy: 0.6458
+Test Accuracy: 0.5106
+
+📌 训练 LSTM
+Train Accuracy: 0.5176
+Train Accuracy: 0.5420
+Train Accuracy: 0.6942
+Train Accuracy: 0.8254
+Train Accuracy: 0.8747
+Train Accuracy: 0.9094
+Train Accuracy: 0.9292
+Train Accuracy: 0.9454
+Train Accuracy: 0.9603
+Train Accuracy: 0.9673
+Test Accuracy: 0.8205
+
+📌 训练 mLSTM
+Train Accuracy: 0.5139
+Train Accuracy: 0.5702
+Train Accuracy: 0.5435
+Train Accuracy: 0.5225
+Train Accuracy: 0.5424
+Train Accuracy: 0.7234
+Train Accuracy: 0.8630
+Train Accuracy: 0.9162
+Train Accuracy: 0.9478
+Train Accuracy: 0.9700
+Test Accuracy: 0.8368
